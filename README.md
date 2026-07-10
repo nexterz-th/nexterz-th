@@ -4,7 +4,8 @@
 
 ### / discord
 
-<a href="https://discord.com/users/552404470068150302"><img src="https://lanyard.cnrad.dev/api/552404470068150302?showDisplayName=true&hideTag=true" /></a>
+<a href="https://discord.com/users/552404470068150302"><img src="https://lanyard.cnrad.dev/api/552404470068150302?showDisplayName=true&hideTag=true&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." /></a>
+
 
 ### / technical stack
 
