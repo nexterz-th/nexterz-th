@@ -51,8 +51,6 @@ Outside of coding, you'll probably find me customizing Linux servers, refining U
 
 ### / reach me
 
-🌐 https://nexterz.com
-
-💬 https://discord.com/users/552404470068150302
+🌐 [nexterz.com](https://nexterz.com) · 💬 [Discord](https://discord.com/users/552404470068150302)
 
 </div>
