@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=NEXTERZ&repeat=false" alt="NEXTERZ" />
-</p>
-
 <img width="80%" max-width="500px" alt="NEXTERZ BANNER" src="https://uppic.nexterz.com/uploads/img-6a50966a77ca81.04778516.png" />
 
 ### / discord
@@ -39,10 +35,10 @@ Outside of coding, you'll probably find me customizing Linux servers, refining U
 
 ### / currently
 
-- 🚀 Building web applications
-- ☁️ Managing servers & Cloudflare
-- 🤖 Developing Discord tools
-- 💡 Working on new side projects
+🚀 Building web applications
+☁️ Managing servers & Cloudflare
+🤖 Developing Discord tools
+💡 Working on new side projects
 
 ---
 
